@@ -5,11 +5,6 @@
     "hash": "ca17db077615c0c7a8c8f5b6fa29050c4039fee29fb5b6d7e7bad26bcd1cdc4e"
   },
   {
-    "filename": "manifest.json",
-    "url": "https://github.com/synpoox/pd2-reawakening/releases/latest/download/manifest.json",
-    "hash": "89da070ee2ebadffd2667e095d1ce532fe46069504efb75fafaaffc8144a40f3"
-  },
-  {
     "filename": "pd2data-10x-density.mpq",
     "url": "https://github.com/synpoox/pd2-reawakening/releases/latest/download/pd2data-10x-density.mpq",
     "hash": "6aab84b1e95491b4c200c88f18b7365974c718de0ed8694f49d7a10dbe46bd25"
