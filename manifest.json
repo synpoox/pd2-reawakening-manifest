@@ -2,31 +2,31 @@
   {
     "filename": "BH.dll",
     "url": "https://github.com/synpoox/pd2-reawakening/releases/latest/download/BH.dll",
-    "hash": "ca17db077615c0c7a8c8f5b6fa29050c4039fee29fb5b6d7e7bad26bcd1cdc4e"
+    "hash": "61c80dd18766ba7f9809e0aa5bfeb6302bcb21346a3f554ef40aafda29fca6bf"
   },
   {
     "filename": "pd2data-10x-density.mpq",
     "url": "https://github.com/synpoox/pd2-reawakening/releases/latest/download/pd2data-10x-density.mpq",
-    "hash": "9d9bc83ec6dc39dcf6c665ee65a96167cf1f2c7bf45558ad2b05dd0c0a43c810"
+    "hash": "91c4742809935a39dbbae3a33a12098f3403c720182fc3f99de6e7d6b4182a48"
   },
   {
     "filename": "pd2data-1x-density.mpq",
     "url": "https://github.com/synpoox/pd2-reawakening/releases/latest/download/pd2data-1x-density.mpq",
-    "hash": "c15344b73cacc951474e75260cc9fe18d8cef3e683d83869c473d9c5fa05aefc"
+    "hash": "77a65ac1d89500dd58814ad9ba1f29c9f7603c876db1e230bfbfd02369fea34c"
   },
   {
     "filename": "pd2data-2x-density.mpq",
     "url": "https://github.com/synpoox/pd2-reawakening/releases/latest/download/pd2data-2x-density.mpq",
-    "hash": "24e428b1cef57f725459f87a34cc01ba00528eafe521b09e87181f1b3208a4b6"
+    "hash": "e266a34d83600fc4deee8d60026f1b20b6e9231c888a691287074cebc80bcd60"
   },
   {
     "filename": "pd2data-3x-density.mpq",
     "url": "https://github.com/synpoox/pd2-reawakening/releases/latest/download/pd2data-3x-density.mpq",
-    "hash": "63d1ca44014ae00918fe9276853c1d2254a14a1a0310b45664c164fa2304e91f"
+    "hash": "972e173b38708094756d4445091a709b2c267b5bf553cb3ab37938372c66d1bd"
   },
   {
     "filename": "pd2data-5x-density.mpq",
     "url": "https://github.com/synpoox/pd2-reawakening/releases/latest/download/pd2data-5x-density.mpq",
-    "hash": "13560a8d3671ab9d05a5d34bd36dde6d674c0062cdcfb7db72c6906f535b7a18"
+    "hash": "cef1d664480aa3ab4084f852621b5113ce248a7e68de9a003042db6e8903c89e"
   }
 ]
