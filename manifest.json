@@ -17,26 +17,31 @@
   {
     "filename": "pd2data-10x-density.mpq",
     "url": "https://github.com/synpoox/pd2-reawakening/releases/latest/download/pd2data-10x-density.mpq",
-    "hash": "31d18af52f06f072a8610b66d1ba5f7397ef3e108557e79b9debadd5247bfab4"
+    "hash": "efc0d475666021bad3435e7a3c674a4add948b31452a66a45eaa400569ea3649"
   },
   {
     "filename": "pd2data-1x-density.mpq",
     "url": "https://github.com/synpoox/pd2-reawakening/releases/latest/download/pd2data-1x-density.mpq",
-    "hash": "e066f7c3758adf830f6f2184e1999f6653f62f0d1b3aff9dfcd8f5308216d98f"
+    "hash": "770d897d4f0048574976871cbb9c7e870a2dabb62d5b15f2a47c3bfe1e2317b9"
   },
   {
     "filename": "pd2data-2x-density.mpq",
     "url": "https://github.com/synpoox/pd2-reawakening/releases/latest/download/pd2data-2x-density.mpq",
-    "hash": "9482964efdd2469a368da67f2fba75f005bfbc08e0830db31f74867c950f76e0"
+    "hash": "f1ac08c6ebd192b2664791c8e4267ce6be7772c202d85a35724dc31a11d64b67"
   },
   {
     "filename": "pd2data-3x-density.mpq",
     "url": "https://github.com/synpoox/pd2-reawakening/releases/latest/download/pd2data-3x-density.mpq",
-    "hash": "2377b23d991797d79a056b3e70af7745d00e2b9b79d8ca3df00ea5521a476a7e"
+    "hash": "07eccae30f9965dbf6d7ec7aebf1c596569e2ce7278a07c2cffd1b16557c20cc"
   },
   {
     "filename": "pd2data-5x-density.mpq",
     "url": "https://github.com/synpoox/pd2-reawakening/releases/latest/download/pd2data-5x-density.mpq",
-    "hash": "296d5da8dc757a0a9304b69321f7a7802c3c14b350e4041178ff5136ca39d507"
+    "hash": "2d2f1a4f0b5c8cb5b037e84dd1506695e71a82700bea19be4bb47009c99e19bc"
+  },
+  {
+    "filename": "pd2data.mpq",
+    "url": "https://github.com/synpoox/pd2-reawakening/releases/latest/download/pd2data.mpq",
+    "hash": "770d897d4f0048574976871cbb9c7e870a2dabb62d5b15f2a47c3bfe1e2317b9"
   }
 ]
