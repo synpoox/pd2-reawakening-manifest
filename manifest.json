@@ -5,28 +5,38 @@
     "hash": "61c80dd18766ba7f9809e0aa5bfeb6302bcb21346a3f554ef40aafda29fca6bf"
   },
   {
+    "filename": "D2Game-IdentifiedMagic.dll",
+    "url": "https://github.com/synpoox/pd2-reawakening/releases/latest/download/D2Game-IdentifiedMagic.dll",
+    "hash": "112c372cf12e6a136628840cbf24d98f21c076aec3bc93d1ed17f2ad89687e64"
+  },
+  {
+    "filename": "D2Game.dll",
+    "url": "https://github.com/synpoox/pd2-reawakening/releases/latest/download/D2Game.dll",
+    "hash": "24b293b86f95bea0228826c502ea04737ba21b91ca9832e52aac4b11fef14f53"
+  },
+  {
     "filename": "pd2data-10x-density.mpq",
     "url": "https://github.com/synpoox/pd2-reawakening/releases/latest/download/pd2data-10x-density.mpq",
-    "hash": "91c4742809935a39dbbae3a33a12098f3403c720182fc3f99de6e7d6b4182a48"
+    "hash": "31d18af52f06f072a8610b66d1ba5f7397ef3e108557e79b9debadd5247bfab4"
   },
   {
     "filename": "pd2data-1x-density.mpq",
     "url": "https://github.com/synpoox/pd2-reawakening/releases/latest/download/pd2data-1x-density.mpq",
-    "hash": "77a65ac1d89500dd58814ad9ba1f29c9f7603c876db1e230bfbfd02369fea34c"
+    "hash": "e066f7c3758adf830f6f2184e1999f6653f62f0d1b3aff9dfcd8f5308216d98f"
   },
   {
     "filename": "pd2data-2x-density.mpq",
     "url": "https://github.com/synpoox/pd2-reawakening/releases/latest/download/pd2data-2x-density.mpq",
-    "hash": "e266a34d83600fc4deee8d60026f1b20b6e9231c888a691287074cebc80bcd60"
+    "hash": "9482964efdd2469a368da67f2fba75f005bfbc08e0830db31f74867c950f76e0"
   },
   {
     "filename": "pd2data-3x-density.mpq",
     "url": "https://github.com/synpoox/pd2-reawakening/releases/latest/download/pd2data-3x-density.mpq",
-    "hash": "972e173b38708094756d4445091a709b2c267b5bf553cb3ab37938372c66d1bd"
+    "hash": "2377b23d991797d79a056b3e70af7745d00e2b9b79d8ca3df00ea5521a476a7e"
   },
   {
     "filename": "pd2data-5x-density.mpq",
     "url": "https://github.com/synpoox/pd2-reawakening/releases/latest/download/pd2data-5x-density.mpq",
-    "hash": "cef1d664480aa3ab4084f852621b5113ce248a7e68de9a003042db6e8903c89e"
+    "hash": "296d5da8dc757a0a9304b69321f7a7802c3c14b350e4041178ff5136ca39d507"
   }
 ]
